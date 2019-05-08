@@ -1,0 +1,53 @@
+ 	body{
+		background: url(../img/fondo.jpg);
+
+	}
+
+
+	img{
+		border-radius: 500px;
+		box-shadow: 0px 0px 25px;
+	}
+	.card1{
+		margin: 60px;
+		float: left;
+		background: blue;
+		
+		padding: 20px;
+
+	}
+	.letra{
+		 color: red;
+		 font: bold 150% monospace;
+
+	}
+	.ss{
+       border-color: black;
+       border-radius:50px;
+	}
+	h1{
+		color: red;
+		font-family: monospace;
+	}
+	.card2{
+		
+		margin: 40px 0;
+		float: left;
+		background: blue;
+		font-family: helvetica;
+		text-align: center;
+		border: solid  #black;
+
+	}
+	.orden{
+		text-align: left;
+
+	}
+	.ordenar{
+		text-align: left;
+	}
+	.lt{
+		color: black;
+		font:small-caps 100% serif;
+
+	}
